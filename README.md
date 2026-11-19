@@ -12,6 +12,12 @@ The AI points things out, and you take it from there. Gratitude Engine never wri
 
 This follows Julia Freeland Fisher's work on prosocial technology: tools should strengthen human connection, not replace it. It also draws on research showing that people underestimate how much being thanked means to others, and overestimate how awkward it will feel ([Kumar and Epley, 2018](https://journals.sagepub.com/doi/abs/10.1177/0956797618772506)).
 
+## Inspired by the Reflection Engine
+
+Gratitude Engine grew out of Kevin Rose's [Reflection Engine](https://github.com/kropdx/reflection-engine). His prompt reads your AI history and shows you your blind spots, your habits and where you seem to be headed. I ran it on my own history and wanted the same depth aimed at a different question. What am I grateful for, and who should hear it?
+
+I kept his one-file setup, his evidence standards and his confidence scores. Then I rewrote the questions around gratitude and added one firm rule. The AI never writes your thanks for you.
+
 ## How to use it
 
 1. **Download [Gratitude-Engine-v0.3.md](Gratitude-Engine-v0.3.md).**
