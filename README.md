@@ -4,18 +4,20 @@
 
 Gratitude Engine is a single prompt you give to your AI assistant. It reads what the assistant already knows about you, including your past chats, its memory of you and files you've uploaded. Then it shows you what you have to be grateful for. That includes the people, places, abilities and everyday moments you may have stopped noticing.
 
+It works with any AI chatbot, including ChatGPT, Gemini, Claude, DeepSeek and Grok.
+
 You get 12 answers. Each one is backed by evidence from your own history and has a confidence score. Each one ends with one thing you could do this week. At the end you get two or three small ways to act on it with the people around you.
 
 You don't need any experience with gratitude to use it.
 
 ## How to use it
 
-You need an AI assistant that can remember your past chats, such as ChatGPT, Claude or Gemini.
+Use whichever AI chatbot you like, such as ChatGPT, Gemini, Claude, DeepSeek or Grok. It works best with a chatbot that can remember your past chats. If yours doesn't, attach a few things you've written about your life along with the prompt, like journal entries or letters.
 
 1. **Download the prompt.** Open [Gratitude-Engine-v0.3.md](Gratitude-Engine-v0.3.md), then click the download button at the top right of the file. It's a small arrow pointing down.
 2. **Open the AI account you use most.** Pick the one where you've talked about your life as well as your work. The more it can see, the better the result.
 3. **Use the newest model you have.** If your assistant lets you choose how hard it thinks, pick the highest setting. A quick, light model will give you a thin result.
-4. **Turn on memory and past-chat search** in your assistant's settings. In ChatGPT, turn on memory and "reference chat history." In Claude, turn on memory and past-chat search. In Gemini, turn on personal context. Without these, the AI can only see one empty chat.
+4. **Turn on memory** in your chatbot's settings, if it has it. In ChatGPT, turn on memory and "reference chat history." In Claude, turn on memory and past-chat search. In Gemini, turn on personal context. In Grok, check that memory is on. Without memory, the AI only sees what's in the new chat.
 5. **Start a new chat.** If your assistant has projects, start the chat outside them so it can see all your chats.
 6. **Attach the file and send this message:**
 
