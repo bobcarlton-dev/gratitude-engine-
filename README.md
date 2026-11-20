@@ -1,3 +1,5 @@
+![AI Gratitude Engine cover: the title in large type over sample pages from a gratitude report](images/cover.jpg)
+
 # Gratitude Engine
 
 Gratitude Engine is a single prompt you give to your AI assistant. It reads what the assistant already knows about you, including chat history, memory and uploaded files, and shows you what you have to be grateful for. That includes the people, places, abilities and everyday moments you may have stopped noticing.
