@@ -10,7 +10,20 @@ You get 12 answers. Each one is backed by evidence from your own history and has
 
 You don't need any experience with gratitude to use it.
 
-## How to use it
+## Two ways to try it
+
+- **Gratitude Spark:** six questions and about five minutes. A good place to start, with nothing to download.
+- **Full Gratitude Engine:** 12 questions and a deeper look at your history. Set aside about 20 minutes to read the result.
+
+## Quick start with the Gratitude Spark
+
+1. Open [gratitude-spark.md](gratitude-spark.md).
+2. Hover over the box with the prompt and click the copy button at its top right.
+3. Open a new chat in any AI chatbot, paste the prompt and send.
+
+If your chatbot can't see your past chats, the Spark asks you five short questions about your year instead.
+
+## How to use the full engine
 
 Use whichever AI chatbot you like, such as ChatGPT, Gemini, Claude, DeepSeek or Grok. It works best with a chatbot that can remember your past chats. If yours doesn't, attach a few things you've written about your life along with the prompt, like journal entries or letters.
 
